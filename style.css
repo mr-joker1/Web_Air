@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 850px) {
+
+}
+
+@media screen and (max-width: 569px) {
+
+}
+
+@media screen and (max-width: 410px) {
+
+}
+body{
+    background-image: url(bg-intro-desktop.png);
+    background-color:indianred;
+  }
+  #head1{
+    position: absolute;
+    color: white;
+    top: 20vw;
+    left: 30vh;
+    font-size: 5vh;
+    font-weight: bolder;
+    width: 40vh;
+  }
+  #head2{
+   position: absolute;
+   color: white;
+   top: 27vw;
+   width: 28vw;
+   left: 15.5vw;
+   font-weight: lighter;
+  }
+  #first{
+    color: white;
+    background-color: rgb(109, 55, 136);
+    position: absolute;
+    height: 7vh;
+    width: 40vh;
+    padding: 20px 20px 20px 20px;
+    top: 8vw;
+    left: 64vw;
+  }
+  .form{
+    position: absolute;
+    height: 20vw;
+    width: 25vw;
+    background-color: white;
+    top: 14vw;
+    left: 62vw;
+  }
